@@ -1,0 +1,49 @@
+/* Contact Us Section */
+.contact-us {
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  height: 100%;
+}
+
+.contact-form {
+  padding: 2rem;
+}
+
+h1 {
+  background: linear-gradient(90deg, #00c6ff, #0072ff, #00aaff);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: gradientAnimation 5s linear infinite;
+  margin: 10px 0px;
+}
+
+.connect-items {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.connect-items span {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.connect-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+@keyframes gradientAnimation {
+  0% {
+      background-position: -200% 0;
+  }
+
+  100% {
+      background-position: 200% 0;
+  }
+}

@@ -1,0 +1,14 @@
+.Row {
+    display: flex;
+    align-items: stretch;
+}
+
+.HomepageSection2-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 min(5rem, 5vw);
+    height: 100%;
+    box-sizing: border-box;
+}

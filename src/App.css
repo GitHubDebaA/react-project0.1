@@ -1,0 +1,63 @@
+.project-waving-text {
+    background: linear-gradient(90deg, SkyBlue, DodgerBlue, LightBlue);
+    background-size: 200% auto;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: gradientAnimation 5s linear infinite;
+    margin: 0;
+}
+
+.double-struck-text {
+    -webkit-text-stroke: 1px #000;
+    -webkit-text-fill-color: #0000;
+}
+
+.text-title_caps {
+    text-transform: uppercase;
+}
+
+.text-heading_large {
+    font-size: clamp(3rem, calc(6vw + 1rem), 6rem);
+}
+
+.text-heading_medium {
+    font-size: clamp(2rem, calc(4vw + 1rem), 4rem);
+}
+
+.text-heading_small {
+    font-size: clamp(1rem, calc(2vw + 1rem), 2rem);
+}
+
+.text-body_large {
+    font-size: clamp(20px, calc(3vw + 1rem), 24px);
+}
+
+.text-body_medium {
+    font-size: clamp(16px, calc(2vw + 1rem), 20px);
+}
+
+.text-body_small {
+    font-size: clamp(12px, calc(1vw + 1rem), 16px);
+}
+
+.text-color_light {
+    color: #f8f9fa;
+    /* mix-blend-mode: difference; */
+}
+
+.text-color_default {
+    color: #777;
+    /* mix-blend-mode: difference; */
+}
+
+/* Keyframes for the gradient animation */
+@keyframes gradientAnimation {
+    0% {
+        background-position: -200% 0;
+    }
+
+    100% {
+        background-position: 200% 0;
+    }
+}

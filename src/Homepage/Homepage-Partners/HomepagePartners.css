@@ -1,0 +1,7 @@
+.partner-logos-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 5vw 2vw;
+}

@@ -1,0 +1,43 @@
+.section-container {
+    padding: 0 min(5rem, 5vw);
+}
+
+.section-icon {
+    height: min(10vw, 5rem);
+    width: min(10vw, 5rem);
+    border-radius: 50%;
+    background: radial-gradient(circle, SkyBlue, DodgerBlue, LightBlue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f8f9fa;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: pulse 2s ease-in-out infinite;
+}
+
+.partner-logos-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.partner-logo img {
+    width: 100px;
+    height: 100px;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+        /* Normal size */
+    }
+
+    50% {
+        transform: scale(1.2);
+        /* Slightly larger */
+    }
+}
