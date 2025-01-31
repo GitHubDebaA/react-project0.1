@@ -68,7 +68,7 @@ function HomepageSection2() {
             <br />
             <div className="HomepageSection2-container">
                 <div className="double-struck-text text-heading_large">Where Our</div>
-                <div className="project-waving-text text-heading_large">Specialty Lies</div>
+                <div className="project-waving-text text-heading_large">Speciality Lies</div>
             </div>
             <br />
             <br />
