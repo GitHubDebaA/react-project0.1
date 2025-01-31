@@ -34,7 +34,6 @@ function HomepageSection2() {
             <div className="HomepageSection2-container">
                 <div style={{ textAlign: 'center' }} className="double-struck-text text-heading_large">Specialist</div>
                 <h1 style={{ textAlign: 'center' }} className="text-heading_large">Divisions</h1>
-                <span style={{ textAlign: 'justify', }} className="text-color_default text-body_small">We believe every brand carries a story and looking for the optimum communication strategy to interact with their audience. In the era of technology and artificial intelligence, we design campaigns with human touch that leaves a lasting impression. With TAW, you can amplify your brand’s communication making it more interactive and people centric. This will not only generate leads but also make your brand more relatable and problem solving to your consumers. Join us on a journey where marketing transcends the ordinary and becomes a catalyst for connection, creativity, and growth.</span>
             </div>
             <br />
             <br />
