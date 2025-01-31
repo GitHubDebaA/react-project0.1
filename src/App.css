@@ -54,6 +54,10 @@
     /* mix-blend-mode: difference; */
 }
 
+.text-color_brand {
+    color: DodgerBlue;
+}
+
 /* Keyframes for the gradient animation */
 @keyframes gradientAnimation {
     0% {
