@@ -19,14 +19,17 @@
 
 .text-heading_large {
     font-size: clamp(3rem, calc(6vw + 1rem), 6rem);
+    line-height: 1.2;
 }
 
 .text-heading_medium {
     font-size: clamp(2rem, calc(4vw + 1rem), 4rem);
+    line-height: 1.1;
 }
 
 .text-heading_small {
     font-size: clamp(1rem, calc(2vw + 1rem), 2rem);
+    line-height: 1;
 }
 
 .text-body_large {
