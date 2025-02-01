@@ -4,7 +4,7 @@ import { Button } from "react-bootstrap";
 
 import "./cover.css";
 
-function Cover({ threshold = 0.2 }) {
+function Cover({ threshold = 0.1 }) {
     const sectionRef = useRef(null);
     const [isVisible, setIsVisible] = useState(false);
 
