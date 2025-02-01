@@ -1,0 +1,11 @@
+.animated-section {
+    opacity: 0;
+    transform: translateY(100px);
+    transition: opacity 1s ease-out, transform 1s ease-out;
+}
+
+.animated-section.appear {
+    opacity: 1;
+    transform: translateY(0);
+    /* Moves to original position */
+}
