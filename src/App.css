@@ -29,7 +29,7 @@
 
 .text-heading_small {
     font-size: clamp(1rem, calc(2vw + 1rem), 2rem);
-    line-height: 1;
+    line-height: 1.1;
 }
 
 .text-body_large {
