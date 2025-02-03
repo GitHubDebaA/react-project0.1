@@ -25,7 +25,7 @@ const HomepageSlide = () => {
                                     <p>A comprehensive website management strategy is pivotal for online business success. From enhancing user experience to improving search engine visibility, each aspect plays a crucial role.</p>
                                     <Button variant="outline-light">
                                         Explore
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-caret-right-fill" viewBox="0 0 16 16">
                                             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                         </svg>
                                     </Button>
@@ -51,7 +51,7 @@ const HomepageSlide = () => {
                                     <p>In today's bustling market where every digital marketing agency is trying to stand out, having consumable content is like the basic rule of the game. ...</p>
                                     <Button variant="outline-light">
                                         Explore
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-caret-right-fill" viewBox="0 0 16 16">
                                             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                         </svg>
                                     </Button>
@@ -77,7 +77,7 @@ const HomepageSlide = () => {
                                     <p>Welcome to the future of advertising, where the magic of Artificial Intelligence (AI) is transforming the way, we connect with audiences.</p>
                                     <Button variant="outline-light">
                                         Explore
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-caret-right-fill" viewBox="0 0 16 16">
                                             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                         </svg>
                                     </Button>
@@ -103,7 +103,7 @@ const HomepageSlide = () => {
                                     <p>Discover the top 4 red flags that could be undermining your content marketing strategy. Learn how to identify and address these warning signs to ensure your next campaign is a resounding success.</p>
                                     <Button variant="outline-light">
                                         Explore
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-caret-right-fill" viewBox="0 0 16 16">
                                             <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                         </svg>
                                     </Button>

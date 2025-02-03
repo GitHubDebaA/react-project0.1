@@ -13,7 +13,7 @@
     box-sizing: border-box;
 }
 
-.flex-container {
+.flex-container-01 {
     display: flex;
     align-items: center;
     gap: 10px;
